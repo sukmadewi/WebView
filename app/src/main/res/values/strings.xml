@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebView</string>
+
+    <string name="menu_unissula">Unissula</string>
+    <string name="menu_republika">Republika</string>
+    <string name="this_activity">Sukma Dewi Wulansari</string>
+    <string name="this_fragment">Ini adalah menu fragment</string>
+</resources>
